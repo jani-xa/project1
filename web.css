@@ -1,0 +1,200 @@
+
+.inbox{
+    height: 300px;
+    text-align: center;
+}
+.sec1{
+    background-image: url(shop-calicut-min.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+a.lnksep{
+    border-right: 2px solid grey;
+}
+.inbox4{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+}
+.section{
+    background-color: black;
+    font-style: italic;
+}
+.inbox1{
+    height: 200px;
+    text-align: center;
+    color: white;
+    margin-top:50px ;
+}
+.font{
+    text-decoration:underline;
+}
+.sec2{
+background-image: url(restaurent.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+}
+.sec3{
+    background-image: url(Buffets.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.inbox2{
+    height: 200px;
+    text-align: center;
+    color:black;
+    margin-top: 90PX;
+}
+.sec4{
+    background-image: url(restaurent.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+div.food{
+    background-color: rgba(255, 255, 255, 0.64);
+ 
+}
+.inbox3{
+    height: 70px;
+    text-align: center;
+    color:black;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 50px;
+    font-size: large;
+}
+.sec5{
+    background-image: url(food.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.inbox5{
+    height: 300px;
+    text-align: center;
+    color: silver;
+    margin-top: 100PX;
+}
+.no1{
+    text-decoration: underline;
+}
+.inbox6{
+    min-height: 300px;
+    text-align: center;
+    margin-top: 100PX;
+    font-size:large;
+}
+.sec6{
+    background-image: url(Common\ Restaurant.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.NO2{
+    color:cadetblue;
+    font-size: 80px;
+    font-style: oblique;
+}
+.icon1{
+    font-size:60px;
+    color:plum;
+}
+.sec7{
+    background-image: url(thanx-full.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+}
+.inbox7{
+    height: 100px;
+    text-align: center;
+    margin-top: 100PX;
+    font-size:large; 
+    color: white;
+}
+div.opacity{
+    background-color:rgba(255, 0, 0, 0.189); 
+}
+.sec8{
+    background-image: url(chinese-chef.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.inbox8{
+    height: 300px;
+    text-align: center;
+    margin-top: 200PX;
+    font-size:large; 
+}
+.NO3{
+    text-decoration: underline;
+    color:black;
+}
+.sec9{
+    background-color:rgba(0, 0, 0, 0.87);
+}
+.inbox9{
+    height: 200px;
+    background-image: url(black-white-photo-restaurant.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+    color:darkblue;
+    margin: 50px 0px;
+    text-align: center;
+    color: wheat;
+    
+}
+.inbox10{
+    height: 150px;
+    background-color:rgba(0, 0, 0, 0.022) ;
+    color: white;
+    margin: 50px 0px;
+
+}
+.h6{
+    /* text-align: center; */
+}
+.inbox11{
+    height: 200px;
+    background-color:rgba(0, 0, 0, 0.022) ;
+    color: white;
+    margin: 50px 0px;
+
+}
+.inbox12{
+    height: 200px;
+    background-color:rgba(0, 0, 0, 0.022) ;
+    color: white;
+    margin: 50px 0px;
+
+}
+.sec10{
+    background-color: black;
+}
+.inbox13{
+    height: 50px;
+    background-color:black ;
+    color: rgba(255, 255, 255, 0.534);
+}
+.inbox14{
+    height: 50px;
+    background-color:black ;
+   text-align: right;
+}
+.icons{
+    color: rgba(255, 255, 0, 0.847);
+}
+@media(max-width:576px){
+    .inbox13, .inbox14{
+        text-align: center;
+    }
+
+    .inbox11{
+        height: 85px;
+        margin: 0px;
+    }
+    .inbox12{
+        height: 108px;
+        margin: 16px 0px;
+    }
+
+}
